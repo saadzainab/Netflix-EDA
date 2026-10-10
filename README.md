@@ -1,6 +1,5 @@
 # Netflix Dataset — Exploratory Data Analysis
 
-**FAST-NUCES | Data Science — Assignment 2**
 
 ## Project Overview
 
